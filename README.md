@@ -12,7 +12,7 @@ I'm a data scientist specializing in NLP, with a background in philosophy of mat
 
 <p align="left"> <strong>Feel free to reach out to me below.</strong></p>
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=bphall&show_icons=true)
+<!-- ![My Github stats](https://github-readme-stats.vercel.app/api?username=bphall&show_icons=true)
 
 
 ## 📫 Contact Me
